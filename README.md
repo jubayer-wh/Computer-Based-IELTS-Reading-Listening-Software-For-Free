@@ -9,8 +9,8 @@
 Full-length **Reading** and **Listening** tests with instant scoring.
 
 <p>
-  <a href="#-start-reading-test"><img alt="Start Reading Test" src="https://img.shields.io/badge/Start%20Reading%20Test-0E5A78?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <a href="#-start-listening-test"><img alt="Start Listening Test" src="https://img.shields.io/badge/Start%20Listening%20Test-EAF1FF?style=for-the-badge&logo=soundcloud&logoColor=0A1A33"></a>
+  <a href="http://ielts.webkih.com/reading/"><img alt="Start Reading Test" src="https://img.shields.io/badge/Start%20Reading%20Test-0E5A78?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="http://ielts.webkih.com/listening/"><img alt="Start Listening Test" src="https://img.shields.io/badge/Start%20Listening%20Test-EAF1FF?style=for-the-badge&logo=soundcloud&logoColor=0A1A33"></a>
 </p>
 
 _No sign-up required · Instant results · 100% free_
